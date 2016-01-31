@@ -5,7 +5,7 @@
 
 into a folder on your local drive, say C:/Users/<YourName>/Documents/R/Coursera/data/
 
--Put run_analysis.R to C:\Users\yourname\Documents\R\data\
+-Put run_analysis.R to C:/Users/<YourName>/Documents/R/data/
 
 and then: source("run_analysis.R")
 
