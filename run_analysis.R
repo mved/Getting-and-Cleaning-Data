@@ -1,5 +1,5 @@
-getwd()
-setwd("C:/Users/manish.ved/Documents/R/Coursera/data/")
+## getwd()
+## setwd("C:/Users/manish.ved/Documents/R/Coursera/data/")
 
 library("plyr")
 
